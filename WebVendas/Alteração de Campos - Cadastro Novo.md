@@ -10,7 +10,7 @@ O Erro está relacionado com as **JQuery Masks** que não funcionam em versões 
 
 ### Como Resolver? 🤔
 
-Basta atualizar o navegador para a verão mais recente disponível, seguem alguns comandos para realizar esta atualização:
+Basta atualizar o navegador para a versão mais recente disponível, seguem alguns comandos para realizar esta atualização:
 
 | ![Ubuntu logo](https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ubuntu-logo-2022.svg/200px-Ubuntu-logo-2022.svg.png) | ![Linux Mint Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_Linux_Mint_Logo.svg/250px-The_Linux_Mint_Logo.svg.png) | ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Centos-logo-light.svg/100px-Centos-logo-light.svg.png) |
 |--|--|--|
