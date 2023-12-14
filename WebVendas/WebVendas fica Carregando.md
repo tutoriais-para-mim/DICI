@@ -5,6 +5,10 @@ Erro relacionado ao Java em sua maioria das vezes
  
 ### Do que se Trata? 🔍
 
+Se trata de um erro referente a execução do Java nas máquinas, essencial para a execução do WebVendas.
+
+### Como Resolver? 🤔
+
 A Resolução é muito simples em sua maioria, mas irei dividir aqui para diferentes SO's:
 
  1. **Windows 🪟:**
