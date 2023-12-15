@@ -10,7 +10,7 @@ Se trata do procedimento padrão para a configuração de caixas via Script
 
 O primeiro passo é a obtenção do número de Série da Bematech
 
-> O Número de Série da Bematech pode ser obtido pelo Sabium, atráeis do caminho: Fiscal > Manutenção > ECF > Consultar
+> O Número de Série da Bematech pode ser obtido pelo Sabium, através do caminho: Fiscal > Manutenção > ECF > Consultar
 
 Após isso vc pode rodar o seguinte script:
 
