@@ -14,7 +14,7 @@ O primeiro passo é a obtenção do número de Série da Bematech
 
 Após isso vc pode rodar o seguinte script:
 
-    cd /tmp/ && wget http://ocs.lojasmm.com.br/filialconfig.sh && chmod 777 filialconfig.sh && sh filialconfig.sh
+    cd /tmp/ && wget http://ocs.lojasmm.com.br/download/filialconfig.sh && chmod 777 filialconfig.sh && sh filialconfig.sh
 
 Ele irá pedir algumas informações como a senha mestre, o número da Filial, a ECF que será instalada, o nº de série da bematech... Após a inserção de todos esses campos ele irá realizar a configuração!
 
